@@ -10,6 +10,8 @@
       <sourceFolder url="file://$MODULE_DIR$/minigrep/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rc/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/refcell/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/hello/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/matching/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/adder/target" />
       <excludeFolder url="file://$MODULE_DIR$/closures/target" />
       <excludeFolder url="file://$MODULE_DIR$/collections/target" />
@@ -18,6 +20,8 @@
       <excludeFolder url="file://$MODULE_DIR$/minigrep/target" />
       <excludeFolder url="file://$MODULE_DIR$/rc/target" />
       <excludeFolder url="file://$MODULE_DIR$/refcell/target" />
+      <excludeFolder url="file://$MODULE_DIR$/hello/target" />
+      <excludeFolder url="file://$MODULE_DIR$/matching/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
